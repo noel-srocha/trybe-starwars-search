@@ -6,7 +6,7 @@ You will develop a filter list of planets from the Star Wars universe using **Co
 
 ### The Experience
 
-This was one of the assignments built by [Trybe](www.betrybe.com) that made me feel at home, because I love anything related to Star Wars and space movies. So I worked extra hard to be satisfied with what I built at the time.
+This was one of the assignments built by [Trybe](https://www.betrybe.com) that made me feel at home, because I love anything related to Star Wars and space movies. So I worked extra hard to be satisfied with what I built at the time.
 
 ### Skills to be Tested
 
